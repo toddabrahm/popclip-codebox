@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Actions</key>
+	<array>
+		<dict>
+			<key>Image File</key>
+			<string>codebox.png</string>
+			<key>Service Name</key>
+			<string>Add to CodeBox</string>
+			<key>Title</key>
+			<string>Add to CodeBox</string>
+		</dict>
+	</array>
+	<key>Extension Description</key>
+	<string>Send selected text to new CodeBox as snippet</string>
+	<key>Extension Identifier</key>
+	<string>com.toddabrahm.popclip.extension.add-to-codebox</string>
+	<key>Extension Name</key>
+	<string>Add to CodeBox</string>
+	<key>Version</key>
+	<integer>1</integer>
+</dict>
+</plist>
